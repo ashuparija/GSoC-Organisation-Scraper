@@ -27,11 +27,11 @@ python scrape.py
 
 ### Screenshots :
 
-When browsed for python, some of the results are as shown below.
+When browsed for javascript and ruby, some of the results are as shown below.
 
-![Python orgs 1](img/pyorgs.png)
+![Python orgs 2](img/pyorgs.png)
 
-![Python orgs 2](img/pyorgs2.png)
+![Python orgs 3](img/pyorgs2.png)
 
 ### TODOs :
 + Make the code run faster.
